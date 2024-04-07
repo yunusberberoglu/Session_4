@@ -1,0 +1,31 @@
+.btn {
+  background-color: aquamarine;
+  margin: 30px;
+  margin: 10px 20px;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.ortalama {
+  background-color: chartreuse;
+  text-align: center;
+  padding: 30px;
+}
+
+.ortalama div {
+  width: 100px;
+  background-color: cadetblue;
+  margin: auto;
+}
+
+span {
+  background-color: chocolate;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+#span {
+  margin-top: 40px;
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+* {
+  color: rgb(105, 105, 105);
+}
+
+h1 {
+  color: red;
+  color: blue;
+}
+
+p {
+  background-color: cadetblue;
+  border: solid red 5px;
+}
+
+.div-external {
+  width: 400px;
+  height: 100px;
+  /* background-color: brown; */
+  border-style: none none solid solid;
+  border-radius: 10px;
+  border-color:rgba(59, 171, 158, 0.504);
+  border-width: 5px 15px 25px;
+}
+
+.block {
+  width: 200px;
+  height: 100px;
+  background-color: aquamarine;
+  margin-top: 20px;
+  /* display: inline; */
+}
+
+span {
+  display: block;
+  width: 200px;
+  height: 100px;
+  background-color: cadetblue;
+  margin-top: 20px;
+}
